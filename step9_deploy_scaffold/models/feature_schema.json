@@ -1,0 +1,99 @@
+{
+  "columns": [
+    {
+      "name": "Startup_Age",
+      "type": "number",
+      "default": 7.0
+    },
+    {
+      "name": "Funding_Amount",
+      "type": "number",
+      "default": 24755263.5
+    },
+    {
+      "name": "Number_of_Founders",
+      "type": "number",
+      "default": 3.0
+    },
+    {
+      "name": "Founder_Experience",
+      "type": "number",
+      "default": 15.0
+    },
+    {
+      "name": "Employees_Count",
+      "type": "number",
+      "default": 504.0
+    },
+    {
+      "name": "Revenue",
+      "type": "number",
+      "default": 50254502.0
+    },
+    {
+      "name": "Burn_Rate",
+      "type": "number",
+      "default": 504163.0
+    },
+    {
+      "name": "Market_Size",
+      "type": "number",
+      "default": 2.0
+    },
+    {
+      "name": "Product_Uniqueness_Score",
+      "type": "number",
+      "default": 5.0
+    },
+    {
+      "name": "Customer_Retention_Rate",
+      "type": "number",
+      "default": 50.2
+    },
+    {
+      "name": "Marketing_Expense",
+      "type": "number",
+      "default": 510674.0
+    },
+    {
+      "name": "Industry_E-commerce",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Industry_Education",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Industry_Finance",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Industry_Healthcare",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Industry_Logistics",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Industry_Tech",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Business_Model_B2C",
+      "type": "number",
+      "default": 0.0
+    },
+    {
+      "name": "Business_Model_Hybrid",
+      "type": "number",
+      "default": 0.0
+    }
+  ]
+}
